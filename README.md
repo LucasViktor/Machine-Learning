@@ -1,2 +1,2 @@
 # Machine-Learning
-Exercícios e projetos de machine learning
+Exercices and machine learning (mini) projects
